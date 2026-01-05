@@ -19,6 +19,7 @@ Hot-Reload: Use /commandaliases reload to instantly apply changes made to the al
 🔧 Technical Details:
 Optimized Performance: Uses Minecraft's native Brigadier system (no overhead during gameplay).
 
-Compatible with 1.20.1: Fully tested on Fabric 1.20.1.
+Compatible with 1.21.1: Fully tested on Fabric 1.21.1.
 
 Lightweight: Tiny file size and minimal memory footprint.
+
