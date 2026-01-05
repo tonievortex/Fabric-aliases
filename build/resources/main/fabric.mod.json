@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "aliases",
+  "version": "1.0-SNAPSHOT",
+  "name": "Aliases",
+  "description": "Mod na aliasy z wieloma komendami",
+  "authors": ["Vortex"],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "environment": "server",
+  "entrypoints": {
+    "main": ["Vortex.aliases.Aliases"]
+  },
+  "mixins": ["aliases.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.17.3",
+    "fabric-api": "*",
+    "minecraft": "1.21.1"
+  }
+}
